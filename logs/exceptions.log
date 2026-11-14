@@ -1,0 +1,454 @@
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Andrei', lastName='Popescu', dateOfBirth=2001-03-14, gender=M, id='5010314400011'}
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Andrei', lastName='Popescu', dateOfBirth=2001-03-14, gender=M, id='5010314400011'}
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Maria', lastName='Ionescu', dateOfBirth=2000-07-22, gender=F, id='6000722400028'}
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Maria', lastName='Ionescu', dateOfBirth=2000-07-22, gender=F, id='6000722400028'}
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Alexandru', lastName='Dumitrescu', dateOfBirth=2002-11-05, gender=M, id='5021105400037'}
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Alexandru', lastName='Dumitrescu', dateOfBirth=2002-11-05, gender=M, id='5021105400037'}
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Elena', lastName='Stoica', dateOfBirth=1999-01-30, gender=F, id='2990130400046'}
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Elena', lastName='Stoica', dateOfBirth=1999-01-30, gender=F, id='2990130400046'}
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Cristina', lastName='Marin', dateOfBirth=2003-09-18, gender=F, id='6030918400055'}
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Cristina', lastName='Marin', dateOfBirth=2003-09-18, gender=F, id='6030918400055'}
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 5010314400011
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 5010314400011
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 13, 2026 6:14:45 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Andrei', lastName='Popescu', dateOfBirth=2001-03-14, gender=M, id='5010314400011'}
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Andrei', lastName='Popescu', dateOfBirth=2001-03-14, gender=M, id='5010314400011'}
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Maria', lastName='Ionescu', dateOfBirth=2000-07-22, gender=F, id='6000722400028'}
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Maria', lastName='Ionescu', dateOfBirth=2000-07-22, gender=F, id='6000722400028'}
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Alexandru', lastName='Dumitrescu', dateOfBirth=2002-11-05, gender=M, id='5021105400037'}
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Alexandru', lastName='Dumitrescu', dateOfBirth=2002-11-05, gender=M, id='5021105400037'}
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Elena', lastName='Stoica', dateOfBirth=1999-01-30, gender=F, id='2990130400046'}
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Elena', lastName='Stoica', dateOfBirth=1999-01-30, gender=F, id='2990130400046'}
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Cristina', lastName='Marin', dateOfBirth=2003-09-18, gender=F, id='6030918400055'}
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Cristina', lastName='Marin', dateOfBirth=2003-09-18, gender=F, id='6030918400055'}
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 5010314400011
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 5010314400011
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 13, 2026 6:18:01 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Andrei', lastName='Popescu', dateOfBirth=2001-03-14, gender=M, id='5010314400011'}
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Andrei', lastName='Popescu', dateOfBirth=2001-03-14, gender=M, id='5010314400011'}
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Maria', lastName='Ionescu', dateOfBirth=2000-07-22, gender=F, id='6000722400028'}
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Maria', lastName='Ionescu', dateOfBirth=2000-07-22, gender=F, id='6000722400028'}
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Alexandru', lastName='Dumitrescu', dateOfBirth=2002-11-05, gender=M, id='5021105400037'}
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Alexandru', lastName='Dumitrescu', dateOfBirth=2002-11-05, gender=M, id='5021105400037'}
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Elena', lastName='Stoica', dateOfBirth=1999-01-30, gender=F, id='2990130400046'}
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Elena', lastName='Stoica', dateOfBirth=1999-01-30, gender=F, id='2990130400046'}
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Student{firstName='Cristina', lastName='Marin', dateOfBirth=2003-09-18, gender=F, id='6030918400055'}
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Student{firstName='Cristina', lastName='Marin', dateOfBirth=2003-09-18, gender=F, id='6030918400055'}
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 5010314400011
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 5010314400011
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 13, 2026 6:19:44 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Andrei Popescu 2001-03-14 M 5010314400011
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Andrei Popescu 2001-03-14 M 5010314400011
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Maria Ionescu 2000-07-22 F 6000722400028
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Maria Ionescu 2000-07-22 F 6000722400028
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alexandru Dumitrescu 2002-11-05 M 5021105400037
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Alexandru Dumitrescu 2002-11-05 M 5021105400037
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Elena Stoica 1999-01-30 F 2990130400046
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Elena Stoica 1999-01-30 F 2990130400046
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Cristina Marin 2003-09-18 F 6030918400055
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Cristina Marin 2003-09-18 F 6030918400055
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 5010314400011
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 5010314400011
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 13, 2026 6:20:35 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Andrei , Popescu , 2001-03-14 , M , 5010314400011
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Andrei , Popescu , 2001-03-14 , M , 5010314400011
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Maria , Ionescu , 2000-07-22 , F , 6000722400028
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Maria , Ionescu , 2000-07-22 , F , 6000722400028
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alexandru , Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Alexandru , Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Elena , Stoica , 1999-01-30 , F , 2990130400046
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Elena , Stoica , 1999-01-30 , F , 2990130400046
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Cristina , Marin , 2003-09-18 , F , 6030918400055
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Cristina , Marin , 2003-09-18 , F , 6030918400055
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 5010314400011
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 5010314400011
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 13, 2026 6:21:21 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alexandru Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Alexandru Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Elena Stoica , 1999-01-30 , F , 2990130400046
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Elena Stoica , 1999-01-30 , F , 2990130400046
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Cristina Marin , 2003-09-18 , F , 6030918400055
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Cristina Marin , 2003-09-18 , F , 6030918400055
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 5010314400011
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 5010314400011
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 13, 2026 6:21:31 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alexandru Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Alexandru Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Elena Stoica , 1999-01-30 , F , 2990130400046
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Elena Stoica , 1999-01-30 , F , 2990130400046
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Cristina Marin , 2003-09-18 , F , 6030918400055
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Cristina Marin , 2003-09-18 , F , 6030918400055
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 5010314400011
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 5010314400011
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 13, 2026 6:41:21 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository <clinit>
+INFO: Loaded log configuration from D:\JAVA\ExceptionsAndLoggingAssignment\src\main\resources\logging.properties
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alexandru Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Alexandru Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Elena Stoica , 1999-01-30 , F , 2990130400046
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Elena Stoica , 1999-01-30 , F , 2990130400046
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Cristina Marin , 2003-09-18 , F , 6030918400055
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Cristina Marin , 2003-09-18 , F , 6030918400055
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 5010314400011
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 5010314400011
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 14, 2026 3:23:06 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository <clinit>
+INFO: Loaded log configuration from D:\JAVA\ExceptionsAndLoggingAssignment\src\main\resources\logging.properties
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alexandru Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Alexandru Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Elena Stoica , 1999-01-30 , F , 2990130400046
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Elena Stoica , 1999-01-30 , F , 2990130400046
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Cristina Marin , 2003-09-18 , F , 6030918400055
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Cristina Marin , 2003-09-18 , F , 6030918400055
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 5010314400011
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 5010314400011
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 14, 2026 3:23:29 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository <clinit>
+INFO: Loaded log configuration from D:\JAVA\ExceptionsAndLoggingAssignment\src\main\resources\logging.properties
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alexandru Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Alexandru Dumitrescu , 2002-11-05 , M , 5021105400037
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Elena Stoica , 1999-01-30 , F , 2990130400046
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Elena Stoica , 1999-01-30 , F , 2990130400046
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Cristina Marin , 2003-09-18 , F , 6030918400055
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Cristina Marin , 2003-09-18 , F , 6030918400055
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 5010314400011
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 5010314400011
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 14, 2026 3:24:26 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 14, 2026 3:28:39 P.M. org.example.StudentRepository <clinit>
+INFO: Loaded log configuration from D:\JAVA\ExceptionsAndLoggingAssignment\src\main\resources\logging.properties
+nov. 14, 2026 3:28:39 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Mircea Popescu , 2001-09-20 , m , 1294727942979
+nov. 14, 2026 3:28:39 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Mircea Popescu , 2001-09-20 , m , 1294727942979
+nov. 14, 2026 3:28:39 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 1294727942979
+nov. 14, 2026 3:28:39 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 1294727942979
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository <clinit>
+INFO: Loaded log configuration from D:\JAVA\ExceptionsAndLoggingAssignment\src\main\resources\logging.properties
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Maria Ionescu , 2002-07-22 , F , 6000722400028
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Maria Ionescu , 2002-07-22 , F , 6000722400028
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alexandru Dumitrescu , 2002-07-22 , M , 5021105400037
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Alexandru Dumitrescu , 2002-07-22 , M , 5021105400037
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age 24
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Retriving all students with age 24
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age -24
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+WARNING: Age is a negative number
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alex null , 2001-05-19 , M , 129471927327359
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+WARNING: Last name is blank
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Mircea Popescu , 2001-09-20 , m , 1294727942979
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Mircea Popescu , 2001-09-20 , m , 1294727942979
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 1294727942979
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 1294727942979
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+INFO: Attempting to retrive all students with age aaa
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository retriveAllStudentsWithAgeX
+WARNING: Written age is not a number
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Mircea Popescu , 2001-09-20 , k , 1294727942979
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+WARNING: Gender are incorrect
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Mircea Popescu , 2001-09-20 , M , 
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+WARNING: Student id is blank
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Mircea Popescu , 2001-09-20 , M , 120598120958
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Mircea Popescu , 2001-09-20 , M , 120598120958
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 120598120958
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 120598120958
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository removeStudent
+INFO: Attempting to remove student: 120598120958
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository removeStudent
+INFO: Removed student with id 120598120958
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository removeStudent
+INFO: Attempting to remove student: 120598120958
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository removeStudent
+WARNING: Student with id 120598120958 not found
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alex  , 2001-05-19 , M , 129471927327359
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+WARNING: Last name is blank
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Mircea Popescu , 2001-09-20 , M , 325293857235
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Mircea Popescu , 2001-09-20 , M , 325293857235
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository removeStudent
+INFO: Attempting to remove student: 
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository removeStudent
+WARNING: The id written is blank
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Maria Ionescu , 2000-07-22 , F , 6000722400028
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository getStudentById
+INFO: Attempting to get student with id 6000722400028
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository getStudentById
+INFO: Retrieving student with id 6000722400028
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Mihai Popescu , null , M , 129471927327359
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+WARNING: Date of birth is out of range
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Mihai Popescu , 2024-05-18 , M , 129471927327359
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+WARNING: Date of birth is out of range
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Mihai Popescu , 1899-05-18 , M , 129471927327359
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+WARNING: Date of birth is out of range
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Andrei Popescu , 2001-03-14 , M , 5010314400011
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Maria Ionescu , 2002-07-22 , F , 6000722400028
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Maria Ionescu , 2002-07-22 , F , 6000722400028
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: Alexandru Dumitrescu , 2002-07-22 , M , 5021105400037
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Added student: Alexandru Dumitrescu , 2002-07-22 , M , 5021105400037
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository sortStudents
+INFO: Attempting to sort students
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository sortStudents
+INFO: Sorted students
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student:  Popescu , 2001-05-19 , M , 129471927327359
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+WARNING: First name is blank
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+INFO: Attempting to add student: null Popescu , 2001-05-19 , M , 129471927327359
+nov. 14, 2026 3:28:58 P.M. org.example.StudentRepository addStudent
+WARNING: First name is blank
